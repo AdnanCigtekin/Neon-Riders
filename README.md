@@ -1,6 +1,6 @@
 # Neon Riders
 
-This is a interdisciplinary school project for our "Software Engineering" class. In this class we were expected to create any kind of game. So, we have created this game. This game is intended to play on mobile, but we were instructed at a later date that it must be executable in the desktop also. 
+This is a interdisciplinary school project for our "Software Engineering" class. In this class we were expected to create any kind of game. So, we have created this game. This game is intended to play on mobile, but we were instructed at a later date that it must be executable in the desktop also. So, it has deployables for desktop also.
 
 ## Used Technologies
 - Unity3D
