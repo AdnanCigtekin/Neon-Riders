@@ -23,3 +23,5 @@ This is a interdisciplinary school project for our "Software Engineering" class.
   - Mehmet Kaan Öztürk
   - Murathan Biliktü
   
+## Credits  
+![credits](credits.jpg)
