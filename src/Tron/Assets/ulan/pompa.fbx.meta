@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: b96dd0ed53d5fc6409d083ca92a1dad1
+timeCreated: 1518817079
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ig_TrimmedParametricSurface101
+    100002: ig_TrimmedParametricSurface1029
+    100004: ig_TrimmedParametricSurface1117
+    100006: ig_TrimmedParametricSurface1151
+    100008: ig_TrimmedParametricSurface1177
+    100010: ig_TrimmedParametricSurface1211
+    100012: ig_TrimmedParametricSurface1249
+    100014: ig_TrimmedParametricSurface1283
+    100016: ig_TrimmedParametricSurface1309
+    100018: ig_TrimmedParametricSurface1343
+    100020: ig_TrimmedParametricSurface1383
+    100022: ig_TrimmedParametricSurface139
+    100024: ig_TrimmedParametricSurface1409
+    100026: ig_TrimmedParametricSurface1435
+    100028: ig_TrimmedParametricSurface1461
+    100030: ig_TrimmedParametricSurface1487
+    100032: ig_TrimmedParametricSurface1521
+    100034: ig_TrimmedParametricSurface1553
+    100036: ig_TrimmedParametricSurface1575
+    100038: ig_TrimmedParametricSurface1593
+    100040: ig_TrimmedParametricSurface1627
+    100042: ig_TrimmedParametricSurface173
+    100044: ig_TrimmedParametricSurface209
+    100046: ig_TrimmedParametricSurface283
+    100048: ig_TrimmedParametricSurface35
+    100050: ig_TrimmedParametricSurface365
+    100052: ig_TrimmedParametricSurface401
+    100054: ig_TrimmedParametricSurface429
+    100056: ig_TrimmedParametricSurface465
+    100058: ig_TrimmedParametricSurface509
+    100060: ig_TrimmedParametricSurface545
+    100062: ig_TrimmedParametricSurface573
+    100064: ig_TrimmedParametricSurface609
+    100066: ig_TrimmedParametricSurface651
+    100068: ig_TrimmedParametricSurface67
+    100070: ig_TrimmedParametricSurface679
+    100072: ig_TrimmedParametricSurface707
+    100074: ig_TrimmedParametricSurface735
+    100076: ig_TrimmedParametricSurface763
+    100078: ig_TrimmedParametricSurface799
+    100080: ig_TrimmedParametricSurface837
+    100082: ig_TrimmedParametricSurface871
+    100084: ig_TrimmedParametricSurface897
+    100086: ig_TrimmedParametricSurface919
+    100088: ig_TrimmedParametricSurface957
+    100090: //RootNode
+    100092: pompai
+    100094: world1
+    400000: ig_TrimmedParametricSurface101
+    400002: ig_TrimmedParametricSurface1029
+    400004: ig_TrimmedParametricSurface1117
+    400006: ig_TrimmedParametricSurface1151
+    400008: ig_TrimmedParametricSurface1177
+    400010: ig_TrimmedParametricSurface1211
+    400012: ig_TrimmedParametricSurface1249
+    400014: ig_TrimmedParametricSurface1283
+    400016: ig_TrimmedParametricSurface1309
+    400018: ig_TrimmedParametricSurface1343
+    400020: ig_TrimmedParametricSurface1383
+    400022: ig_TrimmedParametricSurface139
+    400024: ig_TrimmedParametricSurface1409
+    400026: ig_TrimmedParametricSurface1435
+    400028: ig_TrimmedParametricSurface1461
+    400030: ig_TrimmedParametricSurface1487
+    400032: ig_TrimmedParametricSurface1521
+    400034: ig_TrimmedParametricSurface1553
+    400036: ig_TrimmedParametricSurface1575
+    400038: ig_TrimmedParametricSurface1593
+    400040: ig_TrimmedParametricSurface1627
+    400042: ig_TrimmedParametricSurface173
+    400044: ig_TrimmedParametricSurface209
+    400046: ig_TrimmedParametricSurface283
+    400048: ig_TrimmedParametricSurface35
+    400050: ig_TrimmedParametricSurface365
+    400052: ig_TrimmedParametricSurface401
+    400054: ig_TrimmedParametricSurface429
+    400056: ig_TrimmedParametricSurface465
+    400058: ig_TrimmedParametricSurface509
+    400060: ig_TrimmedParametricSurface545
+    400062: ig_TrimmedParametricSurface573
+    400064: ig_TrimmedParametricSurface609
+    400066: ig_TrimmedParametricSurface651
+    400068: ig_TrimmedParametricSurface67
+    400070: ig_TrimmedParametricSurface679
+    400072: ig_TrimmedParametricSurface707
+    400074: ig_TrimmedParametricSurface735
+    400076: ig_TrimmedParametricSurface763
+    400078: ig_TrimmedParametricSurface799
+    400080: ig_TrimmedParametricSurface837
+    400082: ig_TrimmedParametricSurface871
+    400084: ig_TrimmedParametricSurface897
+    400086: ig_TrimmedParametricSurface919
+    400088: ig_TrimmedParametricSurface957
+    400090: //RootNode
+    400092: pompai
+    400094: world1
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1000
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

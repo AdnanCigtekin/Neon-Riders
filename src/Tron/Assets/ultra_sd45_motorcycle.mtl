@@ -1,0 +1,95 @@
+newmtl default
+d 1
+Ns 0.75
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+
+newmtl default_tires
+d 1
+Ns 0.75
+Ni 0
+Ka 0 0 0
+Kd 0.247059 0.239216 0.286275
+Ks 1 1 1
+Km 0
+map_Kd /Maps/xc1c.jpg
+
+newmtl default_headlights
+d 1
+Ns 0.75
+Ni 0
+Ka 0 1 1
+Kd 0 1 1
+Ks 1 1 1
+Km 0
+
+newmtl default_brakelights
+d 1
+Ns 0.75
+Ni 0
+Ka 1 0 0
+Kd 1 0 0
+Ks 1 1 1
+Km 0
+
+newmtl default_windshield
+d 0.8
+Ns 0.75
+Ni 0
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Km 0
+
+newmtl default_frames
+d 1
+Ns 0.75
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+
+newmtl default_body
+d 1
+Ns 0.75
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/cdv1.jpg
+
+newmtl default_cushion
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.247059 0.239216 0.286275
+Ks 1 1 1
+Km 0
+map_Kd /Maps/yx1_02_01_01.jpg
+
+newmtl default_dash_panel_display
+d 1
+Ns 1
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/ax3.jpg
+
+newmtl default_interior
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.247059 0.239216 0.286275
+Ks 1 1 1
+Km 0
+map_Kd /Maps/av1.jpg
+

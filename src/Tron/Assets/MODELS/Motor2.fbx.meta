@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 94808e7139702824da1081b2458026f2
+timeCreated: 1519149665
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body_Left
+    100002: Body_Right
+    100004: Body_Trim
+    100006: Main
+    100008: //RootNode
+    100010: transform1
+    100012: transform10
+    100014: transform11
+    100016: transform2
+    100018: transform3
+    100020: transform4
+    100022: transform5
+    100024: transform6
+    100026: transform7
+    100028: transform8
+    100030: transform9
+    100032: V-Ray Dome
+    100034: V-Ray Dome1
+    100036: Wheel_Control_Left
+    100038: Wheel_Control_Right
+    100040: Wheel_Control_Right1
+    100042: Wheel_Exterior_Left
+    100044: Wheel_Exterior_Right
+    100046: Wheel_Front_Separator
+    100048: Wheel_Interior_Left
+    100050: Wheel_Interior_Right
+    100052: Wheel_Rim
+    400000: Body_Left
+    400002: Body_Right
+    400004: Body_Trim
+    400006: Main
+    400008: //RootNode
+    400010: transform1
+    400012: transform10
+    400014: transform11
+    400016: transform2
+    400018: transform3
+    400020: transform4
+    400022: transform5
+    400024: transform6
+    400026: transform7
+    400028: transform8
+    400030: transform9
+    400032: V-Ray Dome
+    400034: V-Ray Dome1
+    400036: Wheel_Control_Left
+    400038: Wheel_Control_Right
+    400040: Wheel_Control_Right1
+    400042: Wheel_Exterior_Left
+    400044: Wheel_Exterior_Right
+    400046: Wheel_Front_Separator
+    400048: Wheel_Interior_Left
+    400050: Wheel_Interior_Right
+    400052: Wheel_Rim
+    2100000: VR_Black_Gloss
+    2100002: VR_Metal_Reflect
+    2100004: VR_Blue_Glow
+    2300000: Wheel_Control_Right1
+    3300000: Wheel_Control_Right1
+    4300000: Wheel_Control_Right1
+    9500000: //RootNode
+    10800000: V-Ray Dome
+    10800002: V-Ray Dome1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
