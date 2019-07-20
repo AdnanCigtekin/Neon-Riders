@@ -22,6 +22,9 @@ This is a interdisciplinary school project for our "Software Engineering" class.
 - **Modellers**
   - Mehmet Kaan Öztürk
   - Murathan Biliktü
-  
+
+### Trello Link
+https://trello.com/b/R6vqvSHd/alpha-20
+
 ## Credits  
 ![credits](credits.jpg)
